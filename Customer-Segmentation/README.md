@@ -38,7 +38,7 @@ Step 1. Cloning the repository.
 
 ```
 
-git clone https://github.com/Machine-Learning-01/Customer_segmentation.git
+git clone https://github.com/TUS2SHAR/Customer-Segmentation
 
 ```
 
